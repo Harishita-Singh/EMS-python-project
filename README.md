@@ -1,4 +1,4 @@
-🚀 Employee Management System
+#🚀 Employee Management System
 
 A simple command-line based Employee Management System built in Python to 
 manage employee records efficiently using file handling.
